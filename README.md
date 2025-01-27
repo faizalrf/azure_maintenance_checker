@@ -69,3 +69,7 @@ Processing subscription: df7c1c8e-d80a-4be9-89f0-ffe9f8754cbd
 Checking maintenance status for VM: azure-test-maintenance (Resource Group: AZURETEST)
 The VM `azure-test-maintenance` is not marked for maintenance
 ```
+
+### References
+
+References: https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-notifications-cli
